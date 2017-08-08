@@ -3,10 +3,29 @@
 
 
     
+  <url>
+    <loc>http://yoursite.com/2017/07/07/%E6%88%91%E7%8A%AF%E8%BF%87%E7%9A%84%E9%94%99%E8%AF%AF%E5%90%88%E9%9B%86/</loc>
+    <lastmod>2017-08-08T11:59:57.635Z</lastmod>
+    <data>
+        <display>
+        <title>我犯过的错误合集</title>
+        <pubTime>2017-07-07T06:13:56.000Z</pubTime>
+        
+        <tag>错误</tag>
+         
+         
+           
+             
+              <breadCrumb title="总结" url="http://yoursite.com/categories/%E6%80%BB%E7%BB%93/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://yoursite.com/2017/07/07/USACO%E5%90%88%E9%9B%86/</loc>
-    <lastmod>2017-07-07T08:21:47.775Z</lastmod>
+    <lastmod>2017-07-09T12:12:28.261Z</lastmod>
     <data>
         <display>
         <title>USACO 合集</title>
@@ -24,25 +43,6 @@
     </url>
 
     
-  <url>
-    <loc>http://yoursite.com/2017/07/07/%E6%88%91%E7%8A%AF%E8%BF%87%E7%9A%84%E9%94%99%E8%AF%AF%E5%90%88%E9%9B%86/</loc>
-    <lastmod>2017-07-07T08:21:36.934Z</lastmod>
-    <data>
-        <display>
-        <title>我犯过的错误合集</title>
-        <pubTime>2017-07-07T06:13:56.000Z</pubTime>
-        
-        <tag>错误</tag>
-         
-         
-           
-             
-              <breadCrumb title="总结" url="http://yoursite.com/categories/%E6%80%BB%E7%BB%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
     
   <url>
