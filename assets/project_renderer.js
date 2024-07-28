@@ -110,7 +110,7 @@ function render_author(author_name, link=null, alias=null) {
             list[idx].innerHTML = context;
         }
 
-        if (author_name === 'Zhou Yu') {
+        if (author_name === 'Yu Zhou') {
             list[idx].setAttribute('class', 'me');
         }
     }
