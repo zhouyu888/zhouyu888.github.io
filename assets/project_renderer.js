@@ -110,7 +110,7 @@ function render_author(author_name, link=null, alias=null) {
             list[idx].innerHTML = context;
         }
 
-        if (author_name === 'Mengfei Xia') {
+        if (author_name === 'Zhou Yu') {
             list[idx].setAttribute('class', 'me');
         }
     }
@@ -140,24 +140,6 @@ render_project(
 // Projects.
 
 
-render_project(
-    project_name='SMaRt',
-    figure_path='./assets/projects/smart.png',
-    title_name='SMaRt: Improving GANs with Score Matching Regularity',
-    author_list=[
-        'Mengfei Xia',
-        'Yujun Shen',
-        'Ceyuan Yang',
-        'Ran Yi',
-        'Wenping Wang',
-        'Yong-Jin Liu', 'corresponding',
-    ],
-    material_list=[
-        ['ICML 2024', 'https://arxiv.org/pdf/2311.18208.pdf'],
-    ],
-    award_name=null,
-);
-
 
 render_project(
     project_name='TimeTuner',
@@ -175,90 +157,6 @@ render_project(
     ],
     material_list=[
         ['CVPR 2024', 'https://arxiv.org/pdf/2310.09469.pdf'],
-    ],
-    award_name=null,
-);
-
-
-render_project(
-    project_name='FEditNet',
-    figure_path='./assets/projects/feditnet.png',
-    title_name='FEditNet: Few-Shot Editing of Latent Semantics in GAN Spaces',
-    author_list=[
-        'Mengfei Xia',
-        'Yezhi Shu',
-        'Yuji Wang',
-        'Yu-Kun Lai',
-        'Qiang Li',
-        'Pengfei Wan',
-        'Zhongyuan Wang',
-        'Yong-Jin Liu', 'corresponding',
-    ],
-    material_list=[
-        ['AAAI 2023', 'https://ojs.aaai.org/index.php/AAAI/article/view/25394'],
-        ['Code', 'https://github.com/THU-LYJ-Lab/FEditNet'],
-    ],
-    award_name=null,
-);
-
-
-render_project(
-    project_name='DCK',
-    figure_path='./assets/projects/dck.png',
-    title_name='Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels',
-    author_list=[
-        'Zipeng Ye',
-        'Mengfei Xia',
-        'Ran Yi',
-        'Juyong Zhang',
-        'Yu-Kun Lai',
-        'Xuwei Huang',
-        'Guoxin Zhang',
-        'Yong-Jin Liu', 'corresponding',
-    ],
-    material_list=[
-        ['TMM 2022', 'https://arxiv.org/pdf/2201.05986v1'],
-    ],
-    award_name=null,
-);
-
-
-render_project(
-    project_name='3DCariGAN',
-    figure_path='./assets/projects/3d_carigan.png',
-    title_name='3D-CariGAN: An End-to-End Solution to 3D Caricature Generation from Normal Face Photos',
-    author_list=[
-        'Zipeng Ye',
-        'Mengfei Xia',
-        'Yanan Sun',
-        'Ran Yi',
-        'Minjing Yu',
-        'Juyong Zhang',
-        'Yu-Kun Lai',
-        'Yong-Jin Liu', 'corresponding',
-    ],
-    material_list=[
-        ['TVCG 2021', 'https://ieeexplore.ieee.org/abstract/document/9609545'],
-        ['Code', 'https://github.com/qq775193759/3D-CariGAN'],
-    ],
-    award_name=null,
-);
-
-
-render_project(
-    project_name='APDrawingGAN2',
-    figure_path='./assets/projects/apdrawinggan2.jpg',
-    title_name='Line Drawings for Face Portraits from Photos using Global and Local Structure based GANs',
-    author_list=[
-        'Ran Yi',
-        'Mengfei Xia',
-        'Yong-Jin Liu',
-        'Yu-Kun Lai',
-        'Paul L. Rosin',
-    ],
-    material_list=[
-        ['TPAMI 2020', 'https://ieeexplore.ieee.org/document/9069416'],
-        ['Code', 'https://github.com/yiranran/APDrawingGAN2'],
     ],
     award_name=null,
 );
